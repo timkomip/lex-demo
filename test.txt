@@ -1,3 +1,4 @@
+var someNumber = 100232
 var a = 500;
 var b =  332434;
 var c = b + 123;
